@@ -1,7 +1,7 @@
 # gif_land
 
-Descrição do Aplicativo "GifLand":
+"GifLand" App Description:
 
-O GifLand é um app divertido que permite buscar e descobrir uma variedade de GIFs emocionantes. Com uma busca inteligente, categorias temáticas e a opção de explorar aleatoriamente, você pode encontrar e compartilhar facilmente GIFs engraçados, emocionantes e criativos. Marque seus favoritos, compartilhe com amigos e adicione um toque de diversão às suas conversas!
+GifLand is a fun app that lets you search for and discover a variety of exciting GIFs. With smart search, themed categories, and the option to explore randomly, you can easily find and share funny, exciting, and creative GIFs. Bookmark your favorites, share with friends, and add a touch of fun to your conversations!
 
 
